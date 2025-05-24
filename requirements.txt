@@ -1,4 +1,6 @@
 setuptools
+textstat
+pdfplumber
 streamlit==1.12.2
 cffi==1.15.0
 cryptography==37.0.4
