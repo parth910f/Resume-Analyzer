@@ -16,7 +16,7 @@ import plotly.express as px # to create visualisations at the admin session
 import plotly.graph_objects as go
 from geopy.geocoders import Nominatim
 import spacy
-import textstat
+# import textstat
 import re
 import pdfplumber
 
