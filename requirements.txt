@@ -1,5 +1,5 @@
-streamlit==1.12.2
 setuptools
+streamlit==1.12.2
 cffi==1.15.0
 cryptography==37.0.4
 altair==4.2.0
@@ -72,7 +72,7 @@ six==1.16.0
 smart-open==5.2.1
 smmap==5.0.0
 sortedcontainers==2.4.0
-spacy==2.3.5
+spacy==3.7.2
 spacy-legacy==3.0.10
 spacy-loggers==1.0.3
 srsly==1.0.5
